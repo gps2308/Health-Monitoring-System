@@ -9,4 +9,5 @@ Python Tkinter dashboard that fetches real-time health data (Heart Rate, SpO₂,
 
 ## How to Run
 1. Install required packages: `pip install requests pillow`
-2. Run `health_dashboard.py`
+2. Run `health.py`
+
